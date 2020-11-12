@@ -363,19 +363,19 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		0D5E64FA255D1EBD00B968E4 /* Resources */ = {
+		0D5E64FF255D206800B968E4 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				0D5E64FB255D1ECE00B968E4 /* Fonts */,
+				0D5E6500255D207600B968E4 /* Font */,
 			);
-			path = Resources;
+			path = Resource;
 			sourceTree = "<group>";
 		};
-		0D5E64FB255D1ECE00B968E4 /* Fonts */ = {
+		0D5E6500255D207600B968E4 /* Font */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = Fonts;
+			path = Font;
 			sourceTree = "<group>";
 		};
 		0D6AD97F252EF1C70063D5CF = {
@@ -403,7 +403,7 @@
 		0D6AD98A252EF1C70063D5CF /* BaseAFAPI */ = {
 			isa = PBXGroup;
 			children = (
-				0D5E64FA255D1EBD00B968E4 /* Resources */,
+				0D5E64FF255D206800B968E4 /* Resource */,
 				0D5E64F9255D1EB200B968E4 /* Models */,
 				0D099088255CEC3300B1F9F1 /* API */,
 				0D1A8A00255101EC00A042BF /* Application */,
